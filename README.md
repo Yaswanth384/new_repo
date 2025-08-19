@@ -1,1 +1,2 @@
-# A Partiicular Line (Editing in feature branch)
+# A Particular line
+Edited in both the main and feature branch 
