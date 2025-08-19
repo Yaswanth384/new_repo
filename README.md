@@ -1,1 +1,1 @@
-# Edited the readme.md section 
+# Have added the 'About' section  
